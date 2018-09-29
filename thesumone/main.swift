@@ -9,4 +9,17 @@
 import Foundation
 
 print("Hello, World!")
+let i=0
+let j=0
+var sum=0
+for i in 1...100
+{
+    sum+=i
+}
+print(sum)
+
+
+
+
+
 
